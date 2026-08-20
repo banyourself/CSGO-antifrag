@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"CooldownTNotify"
+	{
+		"#format"		"{1:.1f}"
+		"en"			"{default}[{red}Kevin{default}] You have {purple}{1} seconds{default} of protection."
+	}
+	"CooldownCTNotify"
+	{
+		"#format"		"{1:.1f},{2:N}"
+		"en"			"{default}[{red}Kevin{default}] Wait {purple}{1} seconds{default} before stabbing {teamcolor}{2}{default}."
+	}
+	"CooldownCTNotifyTeamT"
+	{
+		"#format"		"{1:.1f}"
+		"en"			"{default}[{red}Kevin{default}] Wait {purple}{1} seconds{default} before stabbing terrorists."
+	}
+}
